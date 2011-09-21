@@ -197,8 +197,6 @@ foreach($stat as $s)
 stat_out($r_stat, $r_editions);
 stat_out($t_stat, $t_editions);
 
-
-
 ?>
 
 <br><img src="maps/europe_map.jpg">
